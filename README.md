@@ -1,1 +1,1 @@
-== Simple and stupid Stack Virtual Machine in go
+## Simple and stupid Stack Virtual Machine in go
